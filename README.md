@@ -1,15 +1,20 @@
 ### Date created
 Include the date you created this project and README file.
+04.08.2019
 
-### Project Title
-Replace the Project Title
+### Git project
 
 ### Description
-Describe what your project is about and what it does
+My project is about analyzing the data from a local bikesharing company in New York, Washington and Chicago
 
 ### Files used
-Include the files used
+dk.py
+chicago.csv
+new_york.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+udacity.com
+https://pandas.pydata.org/pandas-docs/stable/
+https://stackoverflow.com/questions/28189442/datetime-current-year-and-month-python
+https://stackoverflow.com/questions/15138973/how-to-get-the-number-of-the-most-frequent-value-in-a-column
