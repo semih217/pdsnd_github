@@ -10,10 +10,10 @@ The most buggs were connected to the LEGB topic.
 As soon as this was fixed the code was running without any issues.
 
 ### Files used
-dk.py
-chicago.csv
-new_york.csv
-washington.csv
+dk.py  
+chicago.csv  
+new_york.csv  
+washington.csv  
 
 ### Credits
 First of all I want to give credit to my Udacity Mentor Antonio Fortin, who was really patient with me
