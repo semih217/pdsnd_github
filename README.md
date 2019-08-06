@@ -4,7 +4,7 @@ The date I have created this project and README file was 04.08.2019.
 ### Description
 My project is about analyzing the data from a local bikesharing company in New York, Washington and Chicago.
 
-###Bugs and technical issues
+### Bugs and technical issues
 LEGB (Local, Enclosing, Global, Built-in)
 The most buggs were connected to the LEGB topic.
 As soon as this was fixed the code was running without any issues.
