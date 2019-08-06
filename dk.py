@@ -63,9 +63,7 @@ return city, month, day
 def load_data(city, month, day):
   df = pd.read_csv(CITY_DATA[city])
 
-return df# df_by_month = df['']# Missing values(Nan) beruecksichtigen!
-
-  #Columns: +Beispielwerte# Unnamed: 0: 1423854 dtype: int# Start Time: 2017 - 06 - 23 15: 09: 32 dtype: object# End Time: 2017 - 06 - 23 15: 14: 53 dtype: object# Trip Duration: 321 dtype: int# Start Station: Wood St & Hubbard St dtype: object# End Station: Damen Ave & Chicago Ave dtype: object# User Type: Subscriber dtype: object# Gender: Male / Female / Nan dtype: object# Birth Year: 1992.0 dtype: float
+return df
 
 ""
 "
